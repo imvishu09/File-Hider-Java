@@ -21,7 +21,7 @@ FileHiderJava is a project for hiding and unhiding files securely using a Java a
 
 ### Setting up the Database
 
-1. Install MySQL and create a database named `ytproject`.
+1. Install MySQL and create a database named `vishuproject`.
 2. Create the necessary tables: 
 
 ```sql
@@ -35,7 +35,7 @@ CREATE TABLE data (...);
 1. Clone the repository: 
 
 ```bash
-git clone https://github.com/your-username/FileHiderJava.git
+git clone [https://github.com/your-username/FileHiderJava.git](https://github.com/imvishu09/File-Hider-Java)
 ```
 
 2. Navigate to the project directory:
@@ -66,17 +66,6 @@ java -cp target/ytproject-1.0-SNAPSHOT.jar Main
 
 Register, hide, and unhide files.
 
-## Code Structure
-
-Explanation of the package structure.
-
-## Contributing
-
-Guidelines for contributing to the project.
-
-## License
-
-Project is licensed under MIT.
 
 ## Author
 
