@@ -35,7 +35,7 @@ CREATE TABLE data (...);
 1. Clone the repository: 
 
 ```bash
-git clone [https://github.com/your-username/FileHiderJava.git](https://github.com/imvishu09/File-Hider-Java)
+git clone https://github.com/your-username/FileHiderJava.git
 ```
 
 2. Navigate to the project directory:
