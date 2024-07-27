@@ -1,5 +1,3 @@
-Here is the readme.md file for the FileHiderJava project:
-
 # FileHiderJava
 
 FileHiderJava is a project for hiding and unhiding files securely using a Java application. This project allows users to hide files by moving them to a database and remove the file from the local file system. Users can also unhide the files by retrieving them from the database back to the local file system. This project supports user registration and authentication.
